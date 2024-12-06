@@ -34,5 +34,5 @@ jobs:
         with:
           go-version: "1.23.0"
 
-    - name: Formatting
-      run: test -z $(go fmt ./...)
+      - name: Formatting
+        run: test -z $(go fmt ./...)
