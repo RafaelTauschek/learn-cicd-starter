@@ -1,4 +1,4 @@
-![dynamic badge](https://github.com/RafaelTauschek/learn-cicd-starter/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![dynamic badge](https://github.com/RafaelTauschek/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
